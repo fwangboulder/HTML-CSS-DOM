@@ -1,5 +1,5 @@
 * {
-    border: 1px solid red !important;
+    border: 1px None red !important;
 }
 
 * {
@@ -8,7 +8,15 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
-
+h1,h3 {
+  font-family: 'Tangerine', serif;
+  text-align:center;
+  font-size: 40px;
+}
+h2 {
+  font-family: 'Tangerine', serif;
+  font-size: 35px;
+}
 .grid {
     margin: 0 auto;
     max-width: 1200px;
