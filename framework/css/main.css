@@ -21,6 +21,11 @@
     display: flex;
     flex-wrap: wrap;
 }
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
 
 .col-1 {
     width: 8.33%;
